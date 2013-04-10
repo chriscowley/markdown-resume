@@ -1,9 +1,9 @@
 # Chris Cowley
 ## Technical Expert, Storage and Open Source
 
-> [Download PDF](resume.pdf)  
+> [Download PDF](english.pdf)  
 > [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
-> (999) 888-7777
+> (0788) 22 78 56
 
 ------
 
@@ -59,6 +59,6 @@ Snell Group / Snell and Wilcox
 
 ### Footer {#footer}
 
-Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- (999) 888-7777
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- (0788) 22 78 56
 
 ------
