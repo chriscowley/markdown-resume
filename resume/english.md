@@ -49,7 +49,7 @@ Sii
   __2012-present__
   Responsible for the architecture of the storage and linux systems for major international infrastructure projects.
 
-Gizmonic Institute Company (GIM)
+Snell Group / Snell and Wilcox
 : *R&D IT Engineer*
   __2008-2012__
   -  Responsible for all Virtualisation, storage and Linux systems
@@ -59,6 +59,6 @@ Gizmonic Institute Company (GIM)
 
 ### Footer {#footer}
 
-Craig Davis -- [craig@there4development.com](craig@there4development.com) -- (999) 888-7777
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- (999) 888-7777
 
 ------
