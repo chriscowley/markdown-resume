@@ -84,7 +84,7 @@ h2 {
 h3 {
     margin: 0;
     padding: 0 0 .5em;
-    font-size: 130%;
+    font-size: 120%;
     font-style: italic;
     font-weight: normal;
 }
@@ -152,7 +152,7 @@ dl {
     dt {
         margin: 0;
         padding: 0;
-        font-size: 140%;
+        font-size: 110%;
     }
     dd {
         margin: 0 0 1.5em;
@@ -165,7 +165,7 @@ dl {
     }
     em {
         display: block;
-        font-size: 110%;
+        font-size: 105%;
         margin: .15em 0 .5em;
         font-style: bold;
     }
