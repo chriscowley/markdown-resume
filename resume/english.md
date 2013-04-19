@@ -3,7 +3,7 @@
 
 > [Download PDF](english.pdf)  
 > [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
-> (0788) 22 78 56
+> +33(0)620 031766
 
 ------
 
@@ -59,6 +59,6 @@ Snell Group / Snell and Wilcox
 
 ### Footer {#footer}
 
-Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- (0788) 22 78 56
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- +33(0)620 031766
 
 ------
