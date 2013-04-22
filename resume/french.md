@@ -75,3 +75,8 @@ Freelance
   A travaillé avec certains des plus grands Rock n Roll, comme Marty Wilde, Georgie Fame, Whitesnake, Larry Norman et beaucoup d'autre.
 
 ------
+
+### Footer {#footer}
+
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- +33 (0)620 03 17 66
+
