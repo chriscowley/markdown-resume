@@ -1,88 +1,77 @@
 # Chris Cowley
 ## Ingénieur d'Informatique
 
+> [Telecharger en PDF](french.pdf)
 > [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
-> +44(0)23 92 739 556
+> +33 (0)620 03 17 66
 
 ------
 
 ### Profile
 
-Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage.
+Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage. En particulaire Linux, Virtualisation et du stockage haute performance
 
 ------
 
 ### Savoir-Faire
 
-* Architecture des systèmes informatique
-  : Faire le planification et l'implémentation des systèmes très complexe.
+* Linux/UNIX
+  : Red Hat, Debian, Ubuntu, AIX
+  : Haute-disponsibilite
+  : Cloud computing
+  : High Performance Computing
 
-* Support niveau 3 et expertise
-  : Identification et résolution des problèmes techniques très complique.
+* Stockage
+  : HP, Brocade, NetApp, Infortrend, EMC, Dot Hill, Cisco
+  : Protocoles Fibre Channel, iSCSI, NAS
+  : Scale-out
 
-* Coordination de projet technique.
-  : Les migrations des systèmes complexes et importante avec le minimum d'interruption.
+* Communictaion.
+  : Aptitude averee a communiquer des sujets techniques en termes non simple.
+  : Anglais maternelle, francais niveau professionelle
 
 -------
 
 ### Compétences Techniques
 
-  * Linux / UNIX
-    : Red Hat, Debian, Ubuntu, Aix
-  * Stockage
-    : HP, Brocade, NetApp, Infortrend
-  * Virtualisation
-    : VMware, RHEV, Citrix/XEN, KVM, OpenVZ
-  * Utiles et Langages de programmation
-    : PHP, Python, Shell, C/C++, CVS, Subversion, Git, Jira, Bugzilla, Redmine, Trac
-  * Réseaux
-    : Routeur/Switch Cisco/HP Procurve/Juniper Netscreen, VPN (Ipsec et OpenVPN),
-  * SGBD
-    : MySQL, PostgreSQL, Oracle, Microsoft SQL Server
+1. Virtualisation
+1. Cloud computing
+1. Web servers/Load balancers
+1. RDBMS, NoSQL
+1. Python, PHP, Shell scripting
+1. Gestion de Configuration (Puppet)
+1. Monitoring (Nagios and similar)
+1. Reseaux (Juniper, Cisco, HP Procurve)
+1. Agile/DevOps
+1. Gestion de versions
 
 ------
 
 ### Expérience
 
+Sii
+: *Expert Technique*
+  __2012 - present__
+  Responsable de l'architecture des systèmes de stockage et Linux pour les grands projets d'infrastructures internationaux.
+
 Snell
 : *R&D IT Ingénieur*
-  __Avril 2008 - Présent__
-  
-  * Responsable des systèmes Linux et de l'infrastructure de réseau et stockage dans une entreprise qui pousse son infrastructure informatique à la limite.
-  * La planification et l'implémentation du systèmes Virtualisation.
-  * Intégration de tout systèmes Linux à Active Directory.
-  * Implémentation de système de surveillance; construit autour de Nagios/Icinga intégré  avec Munin, MRTG  et gsmtools.
-  * Implémentation de Puppet pour la gestion de configuration.
-  * Responsable des outils d'ingénierie (CVS/Subversion, Bugzilla, Jira, Confluence, Fisheye/Crucible)
+  __2008 - 2012__
+  Responsable de tous les systèmes de virtualisation, stockage et Linux. Également agi comme consultant interne pour les équipes de R & D dans un environnement de diffusion haut de gamme. Aider les ingénieurs de diffusion très bien informés faire la transition vers un environnement IT-centric.
   
 Lockheed-Martin
 : *Adaptation Développer*
-  __Janvier 2007 - Février 2008__
-  
-  * Développement de la nouvelle génération de logiciel Contrôle du Trafic de l'air (iFACTs) et soutien du système actuel. 
-  * Un poste qui exige une grande polyvalence – administration de système, Oracle DBA, programmation,  résolution de problème et la capacité d'appliquer les connaissance à des situations étranger.
-  * Le conception et implémentation d'un nouveau environnent de développement. Particulièrement, cela nécessite connaissance de AIX et Oracle.
-  * Travaillé dans une équipe de client à NATS (National Air Traffic Services).
+  __2007 - 2008__
+  Développer les logicielles de prochaine génération de Air Traffic Control (iFACTS) et supportant le système actuel. Cela a exigé un «touche-à-tout» - l'administration du système, DBA, le développement, la résolution de problèmes en général et la capacité d'appliquer les connaissances à des situations étrangères. Ce fut aussi un environnement de sécurité critique nécessitant SC cote de sécurité de niveau.
 
 Neat Support
 : *Director*
-  __Janvier 2006 - Janvier 2007__
-  
-  * Un soutien-sur-site à les utilisateur de la maison et de l'entreprise.
-  * Toujours encourager les clients à examiner Linux, si il est une solution adaptée.
- 
-PC iDeals
-: *Technicien*
-  __Mars 2005 - Octobre 2005__
-  
-  * Responsable de la boutique et l'atelier secondaire.
-  * Mis en place plusieurs systèmes afin d'améliorer l'organisation et la satisfaction de la clientèle
+  __2006 - 2007__
+  Un soutien-sur-site à les utilisateur de la maison et de l'entreprise.
   
 Freelance
 : *Sound Engineer*
-  __Juin 2000 - Janvier 2006__
-  
-  * A travaillé avec certains des plus grands Rock n Roll, comme Marty Wilde, Georgie Fame, Whitesnake, Larry Norman et beaucoup d'autre.
-  * Tout mon travaille étais sur mes épaules.
+  __2000 - 2006__
+  A travaillé avec certains des plus grands Rock n Roll, comme Marty Wilde, Georgie Fame, Whitesnake, Larry Norman et beaucoup d'autre.
 
 ------
