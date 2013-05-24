@@ -2,7 +2,7 @@
 ## Technical Expert, Storage and Open Source
 
 > [Download PDF](english.pdf)  
-> [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
+> [chris@chriscowley.me.uk](mailto:chris@chriscowley.me.uk) / [@chriscowleyunix](https://twitter.com/chriscowleyunix)  
 > +33 (0)620 03 17 66
 
 ------
@@ -80,6 +80,6 @@ Freelance Sound Engineer
 
 ### Footer {#footer}
 
-Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- +33 (0)620 03 17 66
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) --[@chriscowleyunix](https://twitter.com/chriscowleyunix)-- +33 (0)620 03 17 66
 
 ------
