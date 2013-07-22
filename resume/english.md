@@ -15,15 +15,15 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Skills {#skills}
 
-* Linux/UNIX
+* Systems/Platforms
   : Red Hat, Debian, Ubuntu, AIX
+  : VCE vBlock
   : High availabilty
   : Cloud computing
   : High Performance Computing
-  
 
 * Storage
-  : HP, Brocade, NetApp, Infortrend, EMC, Dot Hill, Cisco
+  : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
   : Fibre Channel, iSCSI, NAS protocols
   : Scale-out storage
 
@@ -36,9 +36,10 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Technical {#technical}
 
-1. Virtualisation
 1. Cloud computing
+1. Virtualisation (KVM, VMware, Xen)
 1. Web servers/Load balancers
+1. Integrated Platforms (VCE vBlock, NetApp Flexpod)
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
 1. Configuration Management (Puppet)
@@ -54,7 +55,7 @@ An experienced system engineer with a special interest in open-source platforms.
 Sii
 : *Expert Technique*
   __2012-present__
-  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects.
+  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects. Realised using VCE vBlock systems of varying sizes along with Red Hat Enterprise Linux.
 
 Snell Group / Snell and Wilcox
 : *R&D IT Engineer*

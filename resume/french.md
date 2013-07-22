@@ -15,14 +15,15 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Savoir-Faire
 
-* Linux/UNIX
+* Systems/Platforms
   : Red Hat, Debian, Ubuntu, AIX
+  : VCE vBlock
   : Haute-disponsibilite
   : Cloud computing
   : High Performance Computing
 
 * Stockage
-  : HP, Brocade, NetApp, Infortrend, EMC, Dot Hill, Cisco
+  : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
   : Protocoles Fibre Channel, iSCSI, NAS
   : Scale-out
 
@@ -34,8 +35,9 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Compétences Techniques
 
-1. Virtualisation
+1. Virtualisation (KVM, VMware, Xen)
 1. Cloud computing
+1. Integrated Platforms (VCE vBlock, NetApp Flexpod)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
