@@ -1,9 +1,10 @@
 # Chris Cowley
 ## Ingénieur d'Informatique
 
-> [Telecharger en PDF](french.pdf)
-> [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
-> +33 (0)620 03 17 66
+* [Telecharger en PDF](french.pdf)
+* [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
+* [@chriscowleyunix](https://twitter.com/chriscowleyunix)  
+* +33 (0)646 17 22 20
 
 ------
 
@@ -80,5 +81,6 @@ Freelance
 
 ### Footer {#footer}
 
-Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- +33 (0)620 03 17 66
+Chris Cowley -- [chris@chriscowley.me.uk](chris@chriscowley.me.uk) -- [@chriscowleyunix](https://twitter.com/chriscowleyunix) -- +33 (0)646 17 22 20
 
+------
