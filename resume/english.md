@@ -56,7 +56,7 @@ An experienced system engineer with a special interest in open-source platforms.
 Sii
 : *Expert Technique*
   __2012-present__
-  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects. Realised using VCE vBlock systems of varying sizes along with Red Hat Enterprise Linux.
+  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects. Realised using VCE vBlock systems of varying sizes along with Red Hat Enterprise Linux. Architecture/implimentation of a wide variety of solutions for multiple clients.
 
 Snell Group / Snell and Wilcox
 : *R&D IT Engineer*
