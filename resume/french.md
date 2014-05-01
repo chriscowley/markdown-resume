@@ -35,8 +35,8 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Compétences Techniques
 
-1. Virtualisation
-1. Cloud computing
+1. Virtualisation (VMware/KVM/RHEV)
+1. Cloud computing (Openstack)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
@@ -53,7 +53,7 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 Sii
 : *Expert Technique*
   __2012 - present__
-  Responsable de l'architecture des systèmes de stockage et Linux pour les grands projets d'infrastructures internationaux.
+  Responsable de l'architecture des systèmes de stockage et Linux pour les grands projets d'infrastructures internationaux. En particulaire des project cloud computing et les systemes scalable.
 
 Snell
 : *R&D IT Ingénieur*

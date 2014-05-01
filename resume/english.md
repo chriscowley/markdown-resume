@@ -37,8 +37,8 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Technical {#technical}
 
-1. Virtualisation
-1. Cloud computing
+1. Virtualisation (VMware/KVM/RHEV)
+1. Cloud Computing (Openstack)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
@@ -55,7 +55,7 @@ An experienced system engineer with a special interest in open-source platforms.
 Sii
 : *Expert Technique*
   __2012-present__
-  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects.
+  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects. Specialising in cloud computing and scalable systems.
 
 Snell Group / Snell and Wilcox
 : *R&D IT Engineer*
