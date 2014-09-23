@@ -18,9 +18,8 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 * Systems/Platforms
   : Red Hat, Debian, Ubuntu, AIX
-  : VCE vBlock
+  : Openstack
   : Haute-disponsibilite
-  : Cloud computing
   : High Performance Computing
 
 * Stockage
