@@ -18,7 +18,7 @@ An experienced system engineer with a special interest in open-source platforms.
 
 * Systems/Platforms
   : Red Hat, Debian, Ubuntu, AIX
-  : VCE vBlock
+  : Openstack
   : High availabilty
   : Cloud computing
   : High Performance Computing
