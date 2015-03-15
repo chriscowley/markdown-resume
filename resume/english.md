@@ -41,7 +41,6 @@ An experienced system engineer with a special interest in open-source platforms.
 1. Virtualisation (VMware/KVM/RHEV)
 1. Cloud Computing (Openstack)
 1. Web servers/Load balancers
-1. Integrated Platforms (VCE vBlock, NetApp Flexpod)
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
 1. Configuration Management (Puppet)

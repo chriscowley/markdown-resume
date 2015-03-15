@@ -39,12 +39,11 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 1. Virtualisation (VMware/KVM/RHEV)
 1. Cloud computing (Openstack)
-1. Integrated Platforms (VCE vBlock, NetApp Flexpod)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
 1. Gestion de Configuration (Puppet)
-1. Monitoring (Nagios and similar)
+1. Monitoring (Nagios et similaire)
 1. Reseaux (Juniper, Cisco, HP Procurve)
 1. Agile/DevOps
 1. Gestion de versions
