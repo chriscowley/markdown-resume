@@ -27,6 +27,7 @@ An experienced system engineer with a special interest in open-source platforms.
   : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
   : Fibre Channel, iSCSI, NAS protocols
   : Scale-out storage
+  : Big Data
 
 * Communication
   : Proven ability to communicate technical subjects in non-technical terms.
@@ -48,6 +49,7 @@ An experienced system engineer with a special interest in open-source platforms.
 1. Networking (Juniper, Cisco, HP Procurve)
 1. Agile/DevOps practises
 1. Version Control
+1. Big Data (Hadoop/HDFS)
 
 ------
 
@@ -56,7 +58,7 @@ An experienced system engineer with a special interest in open-source platforms.
 Sii
 : *Expert Technique*
   __2012-present__
-  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects. Realised using VCE vBlock systems of varying sizes along with Red Hat Enterprise Linux. Architecture/implimentation of a wide variety of solutions for multiple clients encompassing systems large and small, particularly specialising in cloud computing.
+  Responsible for the architecture of the storage and Linux systems for major international infrastructure projects on a variety of projects from telecoms to Big Data. Architecture/implimentation of a wide variety of solutions for multiple clients encompassing systems large and small, particularly specialising in cloud computing and automation.
 
 Snell Group / Snell and Wilcox
 : *R&D IT Engineer*

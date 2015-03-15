@@ -25,7 +25,9 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 * Stockage
   : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
   : Protocoles Fibre Channel, iSCSI, NAS
-  : Scale-out
+  : Scale-outa
+  : Big Data
+
 
 * Communictaion.
   : Aptitude averee a communiquer des sujets techniques en termes non simple.
@@ -46,6 +48,7 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 1. Reseaux (Juniper, Cisco, HP Procurve)
 1. Agile/DevOps
 1. Gestion de versions
+1. Big Data (Hadoop/HDFS)
 
 ------
 
