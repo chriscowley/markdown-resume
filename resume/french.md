@@ -20,7 +20,7 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
   : Red Hat, Debian, Ubuntu, AIX
   : Openstack
   : Haute-disponsibilite
-  : High Performance Computing
+  : High Performance Computing/Big Data
 
 * Stockage
   : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
@@ -37,8 +37,8 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Compétences Techniques
 
-1. Virtualisation (VMware/KVM/RHEV)
 1. Cloud computing (Openstack)
+1. Virtualisation (VMware/KVM/RHEV)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting

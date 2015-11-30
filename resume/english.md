@@ -21,13 +21,13 @@ An experienced system engineer with a special interest in open-source platforms.
   : Openstack
   : High availabilty
   : Cloud computing
-  : High Performance Computing
+  : High Performance Computing/Big Data
 
 * Storage
-  : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
-  : Fibre Channel, iSCSI, NAS protocols
   : Scale-out storage
+  : Fibre Channel, iSCSI, NAS protocols
   : Big Data
+  : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
 
 * Communication
   : Proven ability to communicate technical subjects in non-technical terms.
@@ -38,8 +38,8 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Technical {#technical}
 
-1. Virtualisation (VMware/KVM/RHEV)
 1. Cloud Computing (Openstack)
+1. Virtualisation (VMware/KVM/RHEV)
 1. Web servers/Load balancers
 1. RDBMS, NoSQL
 1. Python, PHP, Shell scripting
