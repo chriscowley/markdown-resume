@@ -38,6 +38,7 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Technical {#technical}
 
+1. Agile/DevOps practises
 1. Cloud Computing (Openstack)
 1. Virtualisation (VMware/KVM/RHEV)
 1. Web servers/Load balancers
@@ -46,7 +47,6 @@ An experienced system engineer with a special interest in open-source platforms.
 1. Configuration Management (Puppet)
 1. Monitoring (Nagios and similar)
 1. Networking (Juniper, Cisco, HP Procurve)
-1. Agile/DevOps practises
 1. Version Control
 1. Big Data (Hadoop/HDFS)
 
@@ -54,16 +54,21 @@ An experienced system engineer with a special interest in open-source platforms.
 
 ### Experience {#experience}
 
+Klaxoon
+: *DevOps Engineer*
+  __2016-present__
+  Automation and support of both hosted and embedded web platforms in a startup environment. Wide variety of technologies across development and infrastructure.
+
 Sii
 : *Expert Technique*
-  __2012-present__
+  __2012-2016__
   Responsible for the architecture of the storage and Linux systems for major international infrastructure projects on a variety of projects from telecoms to Big Data. Architecture/implimentation of a wide variety of solutions for multiple clients encompassing systems large and small, particularly specialising in cloud computing and automation.
 
 Snell Group / Snell and Wilcox
 : *R&D IT Engineer*
   __2008-2012__
   Responsible for all Virtualisation, storage and Linux systems. Also acted as an internal consultant to R&D teams in a high-end broadcast environment. Helping highly knowledgable broadcast engineers make the transition to an IT-centric environment.
-  
+
 Lockheed-Martin / National Air Traffic Services
 : *Adaptation Developer*
   __2007-2008__

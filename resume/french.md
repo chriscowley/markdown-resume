@@ -1,9 +1,9 @@
 # Chris Cowley
 ## Ingénieur d'Informatique
 
-* [Telecharger en PDF](french.pdf)
-* [chris@chriscowley.me.uk](chris@chriscowley.me.uk)  
-* [@chriscowleyunix](https://twitter.com/chriscowleyunix)  
+* [Télécharger en PDF](french.pdf)
+* [chris@chriscowley.me.uk](chris@chriscowley.me.uk)
+* [@chriscowleyunix](https://twitter.com/chriscowleyunix)
 * +33 (0)646 17 22 20
 
 ------
@@ -16,22 +16,22 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Savoir-Faire
 
-* Systems/Platforms
+* Systèmes/Plateformes
   : Red Hat, Debian, Ubuntu, AIX
   : Openstack
-  : Haute-disponsibilite
+  : Haute-disponibilité
   : High Performance Computing/Big Data
 
 * Stockage
   : HP, Brocade, NetApp, Infortrend, EMC (VNX/VMAX), Dot Hill, Cisco
   : Protocoles Fibre Channel, iSCSI, NAS
-  : Scale-outa
+  : Scale-out
   : Big Data
 
 
 * Communictaion.
-  : Aptitude averee a communiquer des sujets techniques en termes non simple.
-  : Anglais maternelle, francais niveau professionelle
+  : Aptitude avérée a communiquer des sujets techniques en termes non simple.
+  : Anglais maternelle, français niveau professionnelle
 
 -------
 
@@ -53,16 +53,21 @@ Ingénieur d'Informatique spécialisé en open source Virtualisation et stockage
 
 ### Expérience
 
+Klaxoon
+: *Ingénieur DevOps*
+  __2016 - présent__
+  Automation et support des plateformes web embarque et héberger dans un environnent de startup. Grand variété du technologies partager entre développement et infrastructure.
+
 Sii
 : *Expert Technique*
-  __2012 - present__
-  Responsable de l'architecture des systèmes de stockage et Linux pour les grands projets d'infrastructures internationaux. En particulaire des project cloud computing et les systemes scalable.
+  __2012 - 2016__
+  Responsable de l'architecture des systèmes de stockage et Linux pour les grands projets d'infrastructures internationaux. En particulaire des projet cloud computing et les systèmes scalable.
 
 Snell
 : *R&D IT Ingénieur*
   __2008 - 2012__
   Responsable de tous les systèmes de virtualisation, stockage et Linux. Également agi comme consultant interne pour les équipes de R & D dans un environnement de diffusion haut de gamme. Aider les ingénieurs de diffusion très bien informés faire la transition vers un environnement IT-centric.
-  
+
 Lockheed-Martin
 : *Adaptation Développer*
   __2007 - 2008__
